@@ -1,85 +1,93 @@
-# RC Monitor Phase 3
+# Rcpoject
 
-A compiled indicator for MetaTrader 5, distributed as an `.ex5` file.
+Public distribution repository for RC MQL5 trading tools, indicators, and release files.
 
-## Download the indicator
+## RC Monitor Phase 3
 
-Download [`RC_Monitor_Phase3.ex5`](./RC_Monitor_Phase3.ex5) from this repository.
+A compiled MetaTrader 5 indicator distributed as an `.ex5` file.
 
-## Install
+### Download
 
-1. In MetaTrader 5, select **File → Open Data Folder**.
-2. Open `MQL5/Indicators` (optionally create an `RC` subfolder).
+- [`RC_Monitor_Phase3.ex5`](./RC_Monitor_Phase3.ex5)
+
+### Installation
+
+1. In MetaTrader 5, open **File → Open Data Folder**.
+2. Go to `MQL5/Indicators`.
 3. Copy `RC_Monitor_Phase3.ex5` into that folder.
-4. Return to MT5, refresh **Navigator → Indicators**, or restart MT5.
-5. Find **RC_Monitor_Phase3** in Navigator and attach it to a chart.
+4. Refresh **Navigator → Indicators** or restart MetaTrader 5.
+5. Attach the indicator to a chart.
 
-## RC Expert Advisor
+### RC Expert Advisor
 
-The matching RC Expert Advisor is also available. To request it, contact the author via Telegram at **+98 919 601 1080**. The Expert may require a license or activation; follow the author's instructions and do not share activation credentials.
+The corresponding RC Expert Advisor is also available. To request access or licensing details, contact the author via Telegram:
 
-## Live signals
+- **+98 919 601 1080**
 
-For live RC signals and updates, join the Telegram channel:
+### Live Signals
 
-[RC live signals](https://t.me/+9JVRBKXAGacwNThk)
+Follow the live signal channel:
 
-## Platform and licensing
+- [RC Live Signals](https://t.me/+9JVRBKXAGacwNThk)
 
-- Platform: MetaTrader 5
-- Distribution: compiled MQL5 `.ex5` binary; source code is not included
-- Please follow the license terms provided by the author. Do not redistribute the software unless authorized.
+### Risk notice
 
-## Risk notice
+This software is a technical trading tool, not financial advice or a guarantee of profit. Trading involves risk. Test the indicator in a demo account before using it in live trading.
 
-This software is a technical tool, not financial advice or a guarantee of profit. Trading involves risk. Test it on a demo account and verify behavior before using it in a live environment.
+### Project overview
 
-## Version
+For a public summary of the project background and development direction, see:
 
-Check the repository files and [Releases](../../releases) for current version information and updates.
+- [Project Overview](./PROJECT_OVERVIEW.md)
+
+### Version information
+
+Check the repository files and [Releases](../../releases) for the latest version information.
 
 ---
 
-# اندیکاتور RC Monitor Phase 3
+# مخزن عمومی RC
 
-نسخهٔ کامپایل‌شدهٔ اندیکاتور **RC Monitor Phase 3** برای MetaTrader 5 در این مخزن ارائه شده است.
+این مخزن برای توزیع ابزارهای MQL5، اندیکاتورها و فایل‌های انتشار RC در اختیار کاربران قرار می‌گیرد.
 
-## دریافت اندیکاتور
+## اندیکاتور RC Monitor Phase 3
 
-فایل [`RC_Monitor_Phase3.ex5`](./RC_Monitor_Phase3.ex5) را از همین مخزن دانلود کنید.
+نسخهٔ کامپایل‌شدهٔ اندیکاتور برای MetaTrader 5 به‌صورت فایل `.ex5` ارائه می‌شود.
 
-## نصب
+### دریافت فایل
 
-1. در MetaTrader 5 از منوی **File → Open Data Folder** استفاده کنید.
-2. پوشهٔ `MQL5/Indicators` را باز کنید؛ در صورت تمایل می‌توانید داخل آن پوشه‌ای به نام `RC` بسازید.
+- [`RC_Monitor_Phase3.ex5`](./RC_Monitor_Phase3.ex5)
+
+### نصب
+
+1. در MetaTrader 5، **File → Open Data Folder** را باز کنید.
+2. مسیر `MQL5/Indicators` را باز کنید.
 3. فایل `RC_Monitor_Phase3.ex5` را در آن پوشه کپی کنید.
-4. به MT5 برگردید و در بخش **Navigator → Indicators** گزینهٔ **Refresh** را بزنید یا MT5 را دوباره راه‌اندازی کنید.
-5. اندیکاتور **RC_Monitor_Phase3** را در Navigator پیدا کنید و روی نمودار قرار دهید.
+4. در بخش **Navigator → Indicators** روی **Refresh** کلیک کنید یا MT5 را مجدداً راه‌اندازی کنید.
+5. اندیکاتور را روی نمودار قرار دهید.
 
-## اکسپرت RC
+### اکسپرت RC
 
-نسخهٔ اکسپرت RC نیز آمادهٔ ارائه است. برای درخواست و اطلاع از شرایط دریافت و فعال‌سازی، از طریق تلگرام با سازنده تماس بگیرید:
+نسخهٔ مربوط به اکسپرت RC هم در دسترس است. برای درخواست دسترسی یا اطلاعات لایسنس، از طریق تلگرام با سازنده در ارتباط باشید:
 
-**+98 919 601 1080**
+- **+98 919 601 1080**
 
-ممکن است اکسپرت به مجوز یا فعال‌سازی نیاز داشته باشد. اطلاعات فعال‌سازی را با دیگران به اشتراک نگذارید.
+### سیگنال‌های زنده
 
-## سیگنال‌های زنده
+برای مشاهدهٔ سیگنال‌های زنده:
 
-برای مشاهدهٔ سیگنال‌های زنده و به‌روزرسانی‌های RC، به کانال تلگرام بپیوندید:
+- [کانال سیگنال RC](https://t.me/+9JVRBKXAGacwNThk)
 
-[کانال سیگنال RC](https://t.me/+9JVRBKXAGacwNThk)
+### هشدار ریسک
 
-## پلتفرم و مجوز
+این نرم‌افزار یک ابزار فنی معاملاتی است و به‌معنای توصیهٔ مالی یا تضمین سود نیست. معامله‌گری با ریسک همراه است. قبل از استفاده در حساب واقعی، اندیکاتور را در حساب آزمایشی بررسی کنید.
 
-- پلتفرم: MetaTrader 5
-- قالب انتشار: فایل کامپایل‌شدهٔ MQL5 با پسوند `.ex5`؛ سورس‌کد در این مخزن ارائه نشده است.
-- لطفاً شرایط مجوزی را که سازنده اعلام می‌کند رعایت کنید و بدون اجازه نرم‌افزار را بازتوزیع نکنید.
+### معرفی پروژه
 
-## هشدار ریسک
+برای خلاصه‌ای عمومی از زمینه و مسیر توسعهٔ پروژه، به فایل زیر مراجعه کنید:
 
-این نرم‌افزار ابزار فنی است و توصیهٔ مالی یا تضمین سود محسوب نمی‌شود. معامله‌گری با ریسک همراه است. پیش از استفاده در محیط واقعی، اندیکاتور را در حساب آزمایشی بررسی کنید.
+- [Project Overview](./PROJECT_OVERVIEW.md)
 
-## نسخه
+### اطلاعات نسخه
 
-برای اطلاع از نسخه و به‌روزرسانی‌ها، فایل‌های مخزن و صفحهٔ [Releases](../../releases) را بررسی کنید.
+برای مشاهدهٔ آخرین نسخه‌ها و به‌روزرسانی‌ها، فایل‌های مخزن و صفحهٔ [Releases](../../releases) را بررسی کنید.
