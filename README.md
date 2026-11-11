@@ -18,6 +18,12 @@ Download [`RC_Monitor_Phase3.ex5`](./RC_Monitor_Phase3.ex5) from this repository
 
 The matching RC Expert Advisor is also available. To request it, contact the author via Telegram at **+98 919 601 1080**. The Expert may require a license or activation; follow the author's instructions and do not share activation credentials.
 
+## Live signals
+
+For live RC signals and updates, join the Telegram channel:
+
+[RC live signals](https://t.me/+9JVRBKXAGacwNThk)
+
 ## Platform and licensing
 
 - Platform: MetaTrader 5
@@ -57,6 +63,12 @@ Check the repository files and [Releases](../../releases) for current version in
 **+98 919 601 1080**
 
 ممکن است اکسپرت به مجوز یا فعال‌سازی نیاز داشته باشد. اطلاعات فعال‌سازی را با دیگران به اشتراک نگذارید.
+
+## سیگنال‌های زنده
+
+برای مشاهدهٔ سیگنال‌های زنده و به‌روزرسانی‌های RC، به کانال تلگرام بپیوندید:
+
+[کانال سیگنال RC](https://t.me/+9JVRBKXAGacwNThk)
 
 ## پلتفرم و مجوز
 
