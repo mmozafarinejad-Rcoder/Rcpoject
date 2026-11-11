@@ -16,7 +16,7 @@ Download [`RC_Monitor_Phase3.ex5`](./RC_Monitor_Phase3.ex5) from this repository
 
 ## RC Expert Advisor
 
-The matching RC Expert Advisor is also available. To request it, please contact the author via Telegram. The Expert may require a license or activation; follow the author's instructions and do not share activation credentials.
+The matching RC Expert Advisor is also available. To request it, contact the author via Telegram at **+98 919 601 1080**. The Expert may require a license or activation; follow the author's instructions and do not share activation credentials.
 
 ## Platform and licensing
 
@@ -26,8 +26,48 @@ The matching RC Expert Advisor is also available. To request it, please contact 
 
 ## Risk notice
 
-This software is a technical tool, not financial advice or a guarantee of profit. Trading involves risk. Test on a demo account and verify behavior before using it in a live environment.
+This software is a technical tool, not financial advice or a guarantee of profit. Trading involves risk. Test it on a demo account and verify behavior before using it in a live environment.
 
 ## Version
 
 Check the repository files and [Releases](../../releases) for current version information and updates.
+
+---
+
+# اندیکاتور RC Monitor Phase 3
+
+نسخهٔ کامپایل‌شدهٔ اندیکاتور **RC Monitor Phase 3** برای MetaTrader 5 در این مخزن ارائه شده است.
+
+## دریافت اندیکاتور
+
+فایل [`RC_Monitor_Phase3.ex5`](./RC_Monitor_Phase3.ex5) را از همین مخزن دانلود کنید.
+
+## نصب
+
+1. در MetaTrader 5 از منوی **File → Open Data Folder** استفاده کنید.
+2. پوشهٔ `MQL5/Indicators` را باز کنید؛ در صورت تمایل می‌توانید داخل آن پوشه‌ای به نام `RC` بسازید.
+3. فایل `RC_Monitor_Phase3.ex5` را در آن پوشه کپی کنید.
+4. به MT5 برگردید و در بخش **Navigator → Indicators** گزینهٔ **Refresh** را بزنید یا MT5 را دوباره راه‌اندازی کنید.
+5. اندیکاتور **RC_Monitor_Phase3** را در Navigator پیدا کنید و روی نمودار قرار دهید.
+
+## اکسپرت RC
+
+نسخهٔ اکسپرت RC نیز آمادهٔ ارائه است. برای درخواست و اطلاع از شرایط دریافت و فعال‌سازی، از طریق تلگرام با سازنده تماس بگیرید:
+
+**+98 919 601 1080**
+
+ممکن است اکسپرت به مجوز یا فعال‌سازی نیاز داشته باشد. اطلاعات فعال‌سازی را با دیگران به اشتراک نگذارید.
+
+## پلتفرم و مجوز
+
+- پلتفرم: MetaTrader 5
+- قالب انتشار: فایل کامپایل‌شدهٔ MQL5 با پسوند `.ex5`؛ سورس‌کد در این مخزن ارائه نشده است.
+- لطفاً شرایط مجوزی را که سازنده اعلام می‌کند رعایت کنید و بدون اجازه نرم‌افزار را بازتوزیع نکنید.
+
+## هشدار ریسک
+
+این نرم‌افزار ابزار فنی است و توصیهٔ مالی یا تضمین سود محسوب نمی‌شود. معامله‌گری با ریسک همراه است. پیش از استفاده در محیط واقعی، اندیکاتور را در حساب آزمایشی بررسی کنید.
+
+## نسخه
+
+برای اطلاع از نسخه و به‌روزرسانی‌ها، فایل‌های مخزن و صفحهٔ [Releases](../../releases) را بررسی کنید.
