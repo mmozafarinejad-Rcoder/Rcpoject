@@ -1,6 +1,6 @@
-# Rcpoject
+# RC Monitor Phase 3 — MetaTrader 5 Indicator
 
-Public distribution repository for RC MQL5 trading tools, indicators, and release files.
+**RC Monitor Phase 3** is a MetaTrader 5 indicator from the **RC — Reference Candle** project, designed and developed by **Mohsen Mozafari Nejad (محسن مظفری‌نژاد)**. This repository provides the compiled indicator, installation instructions, project information, and contact details.
 
 ## RC Monitor Phase 3
 
@@ -18,37 +18,37 @@ A compiled MetaTrader 5 indicator distributed as an `.ex5` file.
 4. Refresh **Navigator → Indicators** or restart MetaTrader 5.
 5. Attach the indicator to a chart.
 
-### RC Expert Advisor
+## RC Expert Advisor
 
 The corresponding RC Expert Advisor is also available. To request access or licensing details, contact the author via Telegram:
 
 - **+98 919 601 1080**
 
-### Live Signals
+## Live Signals
 
 Follow the live signal channel:
 
 - [RC Live Signals](https://t.me/+9JVRBKXAGacwNThk)
 
-### Risk notice
+## Risk notice
 
 This software is a technical trading tool, not financial advice or a guarantee of profit. Trading involves risk. Test the indicator in a demo account before using it in live trading.
 
-### Project overview
+## Project overview
 
 For a public summary of the project background and development direction, see:
 
 - [Project Overview](./PROJECT_OVERVIEW.md)
 
-### Version information
+## Version information
 
 Check the repository files and [Releases](../../releases) for the latest version information.
 
 ---
 
-# مخزن عمومی RC
+# معرفی فارسی
 
-این مخزن برای توزیع ابزارهای MQL5، اندیکاتورها و فایل‌های انتشار RC در اختیار کاربران قرار می‌گیرد.
+**RC Monitor Phase 3** اندیکاتوری برای MetaTrader 5 و بخشی از پروژهٔ **RC — Reference Candle** است که توسط **محسن مظفری‌نژاد (Mohsen Mozafari Nejad)** طراحی و توسعه داده شده است. این مخزن شامل فایل اندیکاتور، راهنمای نصب، معرفی پروژه و اطلاعات تماس است.
 
 ## اندیکاتور RC Monitor Phase 3
 
@@ -66,28 +66,28 @@ Check the repository files and [Releases](../../releases) for the latest version
 4. در بخش **Navigator → Indicators** روی **Refresh** کلیک کنید یا MT5 را مجدداً راه‌اندازی کنید.
 5. اندیکاتور را روی نمودار قرار دهید.
 
-### اکسپرت RC
+## اکسپرت RC
 
 نسخهٔ مربوط به اکسپرت RC هم در دسترس است. برای درخواست دسترسی یا اطلاعات لایسنس، از طریق تلگرام با سازنده در ارتباط باشید:
 
 - **+98 919 601 1080**
 
-### سیگنال‌های زنده
+## سیگنال‌های زنده
 
 برای مشاهدهٔ سیگنال‌های زنده:
 
 - [کانال سیگنال RC](https://t.me/+9JVRBKXAGacwNThk)
 
-### هشدار ریسک
+## هشدار ریسک
 
 این نرم‌افزار یک ابزار فنی معاملاتی است و به‌معنای توصیهٔ مالی یا تضمین سود نیست. معامله‌گری با ریسک همراه است. قبل از استفاده در حساب واقعی، اندیکاتور را در حساب آزمایشی بررسی کنید.
 
-### معرفی پروژه
+## معرفی پروژه
 
 برای خلاصه‌ای عمومی از زمینه و مسیر توسعهٔ پروژه، به فایل زیر مراجعه کنید:
 
-- [Project Overview](./PROJECT_OVERVIEW.md)
+- [معرفی پروژه](./PROJECT_OVERVIEW.md)
 
-### اطلاعات نسخه
+## اطلاعات نسخه
 
 برای مشاهدهٔ آخرین نسخه‌ها و به‌روزرسانی‌ها، فایل‌های مخزن و صفحهٔ [Releases](../../releases) را بررسی کنید.
