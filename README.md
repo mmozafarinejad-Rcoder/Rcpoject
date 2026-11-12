@@ -40,6 +40,14 @@ For a public summary of the project background and development direction, see:
 
 - [Project Overview](./PROJECT_OVERVIEW.md)
 
+## Search terms
+
+- RC Monitor Phase 3 MetaTrader 5 indicator
+- RC Reference Candle project by Mohsen Mozafari Nejad
+- Mohsen Mozafari Nejad RC Monitor
+- RC indicator and Expert Advisor for MT5
+- RC Monitor MT5 indicator download
+
 ## Version information
 
 Check the repository files and [Releases](../../releases) for the latest version information.
@@ -81,6 +89,15 @@ Check the repository files and [Releases](../../releases) for the latest version
 ## هشدار ریسک
 
 این نرم‌افزار یک ابزار فنی معاملاتی است و به‌معنای توصیهٔ مالی یا تضمین سود نیست. معامله‌گری با ریسک همراه است. قبل از استفاده در حساب واقعی، اندیکاتور را در حساب آزمایشی بررسی کنید.
+
+## عبارت‌های جست‌وجو
+
+- اندیکاتور RC Monitor برای متاتریدر ۵
+- اندیکاتور RC Monitor Phase 3
+- پروژه RC Reference Candle محسن مظفری‌نژاد
+- محسن مظفری‌نژاد طراح اندیکاتور RC Monitor
+- اکسپرت RC برای MetaTrader 5
+- دانلود اندیکاتور RC Monitor MT5
 
 ## معرفی پروژه
 
