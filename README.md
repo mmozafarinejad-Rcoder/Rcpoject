@@ -1,6 +1,6 @@
 # RC Monitor Phase 3 — MetaTrader 5 Indicator
 
-**RC Monitor Phase 3** is a MetaTrader 5 indicator from the **RC — Reference Candle** project, designed and developed by **Mohsen Mozafari Nejad (محسن مظفری‌نژاد)**. This repository provides the compiled indicator, installation instructions, project information, and contact details.
+**RC Monitor Phase 3** is a MetaTrader 5 indicator/ Expert from the **RC — Reference Candle** project, designed and developed by **Mohsen Mozafari Nejad (محسن مظفری‌نژاد)**. This repository provides the compiled indicator, installation instructions, project information, and contact details.
 
 ## RC Monitor Phase 3
 
